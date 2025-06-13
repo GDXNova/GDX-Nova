@@ -5,9 +5,6 @@
 ## 🔗 Contract Address  
 `0x83d9b496A7Ff24D3006f25aeCa3de1A554eBB886`
 
-## 📄 Documentation  
-- [Whitepaper V2.1](docs/gdxnova_v21_whitepaper.pdf)
-
 ## 🚀 Highlights  
 - Fully verified contract  
 - Anti-bot, anti-whale, shutdown, airdrop, burn, vesting  
